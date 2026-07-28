@@ -10,10 +10,10 @@ how simple, specialized components can compose into complex systems.
 
 ## What I'm exploring now
 
-- **Delibra** — an artifact-first runtime for structured deliberation
-- **GFM** — composable protocols for reasoning and human–AI collaboration
-- **Knowledge infrastructure** — durable memory, provenance and reusable workflows
-- **Reverse engineering and retrocomputing** — currently revisiting the Amstrad CPC
+- **Delibra** : an artifact-first runtime for structured deliberation
+- **GFM** : composable protocols for reasoning and human–AI collaboration
+- **Knowledge infrastructure** : durable memory, provenance and reusable workflows
+- **Reverse engineering and retrocomputing** : currently revisiting the Amstrad CPC
 - Tools that make software development more inspectable, reproducible and humane
 
 ## Behind the keyboard
