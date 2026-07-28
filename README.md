@@ -25,4 +25,4 @@ When I'm not building software, you'll probably find me playing guitar,
 reading science fiction or fantasy, playing videogames, designing fictional
 worlds—or turning an innocent idea into an unnecessarily ambitious project.
 
-> Divide and conquer—without losing sight of the whole.
+> Divide and conquer, without losing sight of the whole.
